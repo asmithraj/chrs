@@ -1,3 +1,7 @@
 <test file>
 	commit 1
 </test file>
+
+<pre>
+	commit 2
+</pre>
